@@ -1,0 +1,14 @@
+C:\Users\welder\Desktop\DIO\bin\Debug\net7.0\DIO.exe
+C:\Users\welder\Desktop\DIO\bin\Debug\net7.0\DIO.deps.json
+C:\Users\welder\Desktop\DIO\bin\Debug\net7.0\DIO.runtimeconfig.json
+C:\Users\welder\Desktop\DIO\bin\Debug\net7.0\DIO.dll
+C:\Users\welder\Desktop\DIO\bin\Debug\net7.0\DIO.pdb
+C:\Users\welder\Desktop\DIO\obj\Debug\net7.0\DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\welder\Desktop\DIO\obj\Debug\net7.0\DIO.AssemblyInfoInputs.cache
+C:\Users\welder\Desktop\DIO\obj\Debug\net7.0\DIO.AssemblyInfo.cs
+C:\Users\welder\Desktop\DIO\obj\Debug\net7.0\DIO.csproj.CoreCompileInputs.cache
+C:\Users\welder\Desktop\DIO\obj\Debug\net7.0\DIO.dll
+C:\Users\welder\Desktop\DIO\obj\Debug\net7.0\refint\DIO.dll
+C:\Users\welder\Desktop\DIO\obj\Debug\net7.0\DIO.pdb
+C:\Users\welder\Desktop\DIO\obj\Debug\net7.0\DIO.genruntimeconfig.cache
+C:\Users\welder\Desktop\DIO\obj\Debug\net7.0\ref\DIO.dll

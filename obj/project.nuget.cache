@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rmRc73rdQTmk5XG5b05x3MQjUFqZyv6yssUVnlKNszzmcby8Dw19iT05OuazyFMSoSep3svE3kRdcGy5tBlxXA==",
+  "dgSpecHash": "pnJ0FSIXCHUfxx0g7m1pzAlX9x9Ak1oVnozQ4Bm+ExuxQC0+47c7Kt/xKgkJ+nRSLMUrmUji8dzfWLqPUq3kfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\welder\\Desktop\\DesafioFundamentos\\DesafioFundamentos.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\welder\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
-    "C:\\Users\\welder\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
-    "C:\\Users\\welder\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
-    "C:\\Users\\welder\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\welder\\Desktop\\DIO\\DIO.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

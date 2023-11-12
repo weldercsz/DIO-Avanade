@@ -1,2 +1,2 @@
-# DIO-Avanade
-Este repositorio é de uso do Bottcamp feito na DIO , contendo exemplos de testes e estudos em notion em c# e dynamics 365
+# DIO-AVANADE
+Este repositorio se dedica a implementações e estudos  relativos ao Bootcamp 
